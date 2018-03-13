@@ -1,0 +1,20 @@
+{
+    "name": "v-wow",
+    "version": "1.2.1",
+    "description": "Ispire by wow.js Reveal CSS animation as you scroll down a page",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/mirrorthink/vue-wow.git"
+    },
+    "keywords": ["vue", "wow", "Reveal", "CSS", "animation"],
+    "author": "mirrorthink",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mirrorthink/vue-wow/issues"
+    },
+    "homepage": "https://github.com/mirrorthink/vue-wow#readme"
+}
