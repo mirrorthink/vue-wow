@@ -1,10 +1,4 @@
-# n2ex
-
-vue ssr v2ex，because it depends on nuxt so called n2ex
-
-## Performance
-
-* Lighthouse [100/100](http://orkj5d055.bkt.clouddn.com/n2ex-sehiddtque.now.sh_2017-06-26_18-43-12.html) - Webpagetest
+# Vue-wow
 
 ## Features
 
@@ -12,12 +6,14 @@ vue ssr v2ex，because it depends on nuxt so called n2ex
 
 ## Usage
 
-````bash
+```bash
 # install
 $ npm install  v-wow
- ```html
+```
+
+```html
 <div class="class="holder fadeInUp"" v-wow="{ 'animation-name': 'fadeInUp','animation-duration': '1s'}"></div>
-````
+```
 
 ```css
 @keyframes fadeInUp {
