@@ -12,7 +12,7 @@ $ npm install  v-wow
 ```
 
 ```html
-<div class="class="holder fadeInUp"" v-wow="{ 'animation-name': 'fadeInUp','animation-duration': '1s'}"></div>
+<div class="holder fadeInUp" v-wow="{ 'animation-name': 'fadeInUp','animation-duration': '1s'}"></div>
 ```
 
 ```css
